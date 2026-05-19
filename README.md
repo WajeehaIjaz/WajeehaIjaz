@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Stats:
 
-![Wajeeha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+<img src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&theme=dark&hide_border=false" />
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=WajeehaIjaz&theme=dark&hide_border=false)
+<img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=dark&hide_border=false" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=dark&layout=compact" />
 
 ---
 
