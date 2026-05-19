@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&theme=dark&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=dark&hide_border=false" />
+<img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=dark&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 
 ---
 
@@ -56,4 +56,4 @@
 
 ---
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=WajeehaIjaz&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=WajeehaIjaz&color=blue&style=flat)
