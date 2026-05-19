@@ -43,16 +43,16 @@
 
 ## 📊 GitHub Stats:
 
-<img src="https://readme-stats-mauve-nu.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://readme-stats-mauve-nu.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" width="40%" />
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=WajeehaIjaz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WajeehaIjaz&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
