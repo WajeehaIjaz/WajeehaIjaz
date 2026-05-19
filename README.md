@@ -43,11 +43,11 @@
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://readme-stats-mauve-nu.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 
 <img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+<img src="https://readme-stats-mauve-nu.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 
 ---
 
