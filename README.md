@@ -43,17 +43,17 @@
 
 ## 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" width="48%" />
 
-<img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=dark&hide_border=false&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&theme=dark&hide_border=false&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&layout=compact" width="40%" />
 
 ---
 
 ## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=WajeehaIjaz&theme=onestar&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=WajeehaIjaz&theme=darkhub&no-frame=true&column=8&margin-w=5)
 
 ---
 
-![](https://komarev.com/ghpvc/?username=WajeehaIjaz&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=WajeehaIjaz&color=0075b3&style=flat&label=Profile+Views)
