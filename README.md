@@ -46,22 +46,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WajeehaIjaz&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img height="180em" src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=WajeehaIjaz&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WajeehaIjaz&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📈 Contribution Graph
 
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WajeehaIjaz&theme=onedark&no-frame=true&row=2&column=4" />
-</p>
+[![Wajeeha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WajeehaIjaz&theme=tokyo-night)](https://github.com/WajeehaIjaz)
 
 ---
 
