@@ -93,38 +93,6 @@ Passionate about building intelligent systems using Machine Learning, NLP, and D
 
 ---
 
-# 🚀 Featured Projects
-
-### 🧠 SentiCare
-
-- NLP-Based Emotion Detection
-- Voice Emotion Analysis
-- CBT Response Generation
-- Flask Backend
-- MongoDB Integration
-
-### 📊 ML Prediction System
-
-- Data Cleaning
-- Feature Engineering
-- Model Training
-- Model Evaluation
-- Streamlit Deployment
-
-### 😊 Sentiment Analysis
-
-- NLP Pipeline
-- Text Classification
-- Emotion Recognition
-
-### 📈 Data Science Dashboard
-
-- Interactive Visualizations
-- Business Analytics
-- Streamlit Interface
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
